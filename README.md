@@ -11,5 +11,3 @@ The console works both in interactive mode and non-interactive mode like a unix 
 | Quit            | (hbnb) quit           |
 | Display help    | (hbnb) help <command> |
 
-# Authors
-Gbodi Segun - gbodisegun@gmail.com
